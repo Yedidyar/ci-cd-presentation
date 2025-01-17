@@ -29,6 +29,12 @@ layout: section
 - Waterfall model → long release cycles, less feedback
 
 ---
+layout: image
+image: https://musimorphic.com/wp-content/uploads/2022/10/home-alone-1024x768.jpg
+backgroundSize: 50%
+---
+
+---
 
 # Shift to Agile
 
@@ -55,7 +61,10 @@ layout: section
 </v-clicks>
 
 ---
-
+layout: image-left
+image: https://www.mabl.com/hubfs/CICDBlog.png
+backgroundSize: 70%
+---
 # Continuous Delivery & Deployment
 
 <v-clicks>
@@ -139,23 +148,18 @@ layout: section
 </v-clicks>
 
 ---
-
+layout: image
+image: https://cdn.corporatefinanceinstitute.com/assets/range1.png
+backgroundSize: 50%
+class: text-center
+---
 # Confidence Range
 
-::left::
 
-**Without CI:**
-- Fear, manual testing
-- High regression risk
-- Slow feedback
-
-::right::
-
-**With CI:**
-- Automated checks
-- Rapid detection of issues
-- Higher trust in every commit
-
+---
+layout: image-right
+image: https://media.licdn.com/dms/image/v2/C5612AQH0h2q_mufjww/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1595457832720?e=2147483647&v=beta&t=-7hk9T_lPwXB9jy3FanSKvtpq1RaFh5VYNTAw8e2ZIg
+backgroundSize: 90%
 ---
 
 # Types of Deployments
