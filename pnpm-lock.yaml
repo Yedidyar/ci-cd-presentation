@@ -17,6 +17,7 @@ importers:
       '@slidev/theme-seriph':
         specifier: latest
         version: 0.25.0
+    devDependencies:
       prettier-plugin-slidev:
         specifier: ^1.0.5
         version: 1.0.5(prettier@3.4.2)
